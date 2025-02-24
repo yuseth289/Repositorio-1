@@ -10,8 +10,8 @@ function jugar() {
         puntosJugador1 += puntosRondaJugador1;
         puntosJugador2 += puntosRondaJugador2;
 
-        console.log(Ronda: Jugador 1 gana ${puntosRondaJugador1} puntos. Total: ${puntosJugador1});
-        console.log(Ronda: Jugador 2 gana ${puntosRondaJugador2} puntos. Total: ${puntosJugador2});
+        console.log(`Ronda: Jugador 1 gana ${puntosRondaJugador1} puntos. Total: ${puntosJugador1}`);
+        console.log(`Ronda: Jugador 2 gana ${puntosRondaJugador2} puntos. Total: ${puntosJugador2}`);
         console.log('puntos de ronda');
     }
 

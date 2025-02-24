@@ -5,5 +5,7 @@ if (colorSemaforo == "verde"){
 }else if(colorSemaforo == "rojo"){
     console.log("El semaforo esta en "+colorSemaforo+"debe parar");
 }else if(colorSemaforo == "amarillo"){
-    console.lot()
+    console.log("aliste motores")
+}else{
+    console.log("muestra color "+colorSemaforo+", esta dañado");
 }
